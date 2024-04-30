@@ -1,24 +1,40 @@
 {
-  "name": "express-on-azure",
-  "version": "1.0.0",
-  "description": "A sample application for Azure using the Express framework",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/microsoft/vscode-tas-express.git"
-  },
-  "author": "Brian Terlson",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/microsoft/vscode-tas-express/issues"
-  },
-  "homepage": "https://github.com/microsoft/vscode-tas-express#readme",
-  "dependencies": {
-    "cookie-parser": "^1.4.3",
-    "express": "^4.16.3",
-    "request": "^2.88.0"
-  }
+	"name": "express-on-azure",
+	"version": "0.0.1",
+	"private": false,
+	"description": "A sample application for Azure using the Express framework",
+	"keywords": [
+		"land"
+	],
+	"homepage": "HTTPS://GitHub.Com/CodeEditorLand/LandTasExpress#readme",
+	"bugs": {
+		"url": "HTTPS://GitHub.Com/CodeEditorLand/LandTasExpress/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+HTTPS://github.com/CodeEditorLand/LandTasExpress.git"
+	},
+	"license": "SEE LICENSE IN LICENSE",
+	"author": {
+		"name": "🌆 — Land —",
+		"email": "Land@PlayForm.Cloud",
+		"url": "HTTPS://Land.PlayForm.Cloud"
+	},
+	"type": "module",
+	"main": "server.js",
+	"scripts": {
+		"Document": "Document 'Source/**/*.ts'",
+		"prepublishOnly": "Build 'Source/**/*.ts'"
+	},
+	"dependencies": {
+		"cookie-parser": "^1.4.3",
+		"request": "^2.88.0"
+	},
+	"devDependencies": {
+		"@playform/build": "0.0.7",
+		"@playform/document": "0.0.6"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
