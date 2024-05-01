@@ -27,8 +27,8 @@
 		"prepublishOnly": "Build 'Source/**/*.ts'"
 	},
 	"dependencies": {
-		"cookie-parser": "^1.4.3",
-		"request": "^2.88.0"
+		"cookie-parser": "1.4.6",
+		"request": "2.88.0"
 	},
 	"devDependencies": {
 		"@playform/build": "0.0.7",
