@@ -1,0 +1,40 @@
+{
+	"name": "express-on-azure",
+	"version": "0.0.1",
+	"private": false,
+	"description": "A sample application for Azure using the Express framework",
+	"keywords": [
+		"land"
+	],
+	"homepage": "HTTPS://GitHub.Com/CodeEditorLand/LandTasExpress#readme",
+	"bugs": {
+		"url": "HTTPS://GitHub.Com/CodeEditorLand/LandTasExpress/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+HTTPS://github.com/CodeEditorLand/LandTasExpress.git"
+	},
+	"license": "SEE LICENSE IN LICENSE",
+	"author": {
+		"name": "🌆 — Land —",
+		"email": "Land@PlayForm.Cloud",
+		"url": "HTTPS://Land.PlayForm.Cloud"
+	},
+	"type": "module",
+	"main": "server.js",
+	"scripts": {
+		"Document": "Document 'Source/**/*.ts'",
+		"prepublishOnly": "Build 'Source/**/*.ts'"
+	},
+	"dependencies": {
+		"cookie-parser": "1.4.6",
+		"request": "2.88.0"
+	},
+	"devDependencies": {
+		"@playform/build": "0.0.7",
+		"@playform/document": "0.0.6"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
+}
