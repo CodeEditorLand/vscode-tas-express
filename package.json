@@ -1,6 +1,6 @@
 {
 	"dependencies": {
-		"cookie-parser": "^1.4.3",
+		"cookie-parser": "^1.4.6",
 		"request": "^2.88.0"
 	},
 	"description": "A sample application for Azure using the Express framework",
