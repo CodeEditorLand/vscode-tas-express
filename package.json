@@ -4,7 +4,7 @@
 	"main": "server.js",
 	"scripts": {},
 	"dependencies": {
-		"cookie-parser": "^1.4.3",
-		"request": "^2.88.0"
+		"cookie-parser": "1.4.6",
+		"request": "2.88.0"
 	}
 }
