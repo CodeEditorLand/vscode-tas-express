@@ -1,10 +1,10 @@
 {
-	"name": "express-on-azure",
-	"description": "A sample application for Azure using the Express framework",
-	"main": "server.js",
-	"scripts": {},
 	"dependencies": {
 		"cookie-parser": "1.4.6",
 		"request": "2.88.2"
-	}
+	},
+	"description": "A sample application for Azure using the Express framework",
+	"main": "server.js",
+	"name": "express-on-azure",
+	"scripts": {}
 }
