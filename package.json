@@ -4,6 +4,7 @@
 		"request": "2.88.2"
 	},
 	"description": "A sample application for Azure using the Express framework",
+	"devDependencies": {},
 	"main": "server.js",
 	"name": "express-on-azure",
 	"scripts": {}
